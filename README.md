@@ -1,2 +1,2 @@
 # dps
-DewanPublicSchool
+School
